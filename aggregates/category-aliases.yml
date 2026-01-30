@@ -4,6 +4,9 @@ Anax:
 Anax:1:
   label: B1
   sort_key: anax:000001
+Anaximander:
+  label: Anaximander
+  sort_key: anaximander
 Anfang:
   label: Anfang
   sort_key: anfang
@@ -49,12 +52,18 @@ Ari:Pol:
 Ari:Pol:1:
   label: Ari:Pol:1
   sort_key: ari:pol:000001
+Aristoteles:
+  label: Aristoteles
+  sort_key: aristoteles
 Aufgang:
   label: Aufgang
   sort_key: aufgang
 Aufgehen:
   label: Aufgehen
   sort_key: aufgehen
+Aufleuchten:
+  label: Aufleuchten
+  sort_key: aufleuchten
 Aufstehen:
   label: Aufstehen
   sort_key: aufstehen
@@ -100,12 +109,21 @@ Erscheinen:
 GA:
   label: Heidegger
   sort_key: ga
+GA:2:
+  label: GA:2
+  sort_key: ga:000002
 GA:40:
   label: GA 40
   sort_key: ga:000040
+GA:73.1:
+  label: GA:73.1
+  sort_key: ga:000073.000001
 Ganzheit:
   label: Ganzheit
   sort_key: ganzheit
+Gott:
+  label: Gott
+  sort_key: gott
 Grundbegriff:
   label: Grundbegriff
   sort_key: grundbegriff
@@ -181,6 +199,9 @@ Moira:
 Natur:
   label: Natur
   sort_key: natur
+Naturphilosophen:
+  label: Naturphilosophen
+  sort_key: naturphilosophen
 Naturwissenschaft:
   label: Naturwissenschaft
   sort_key: naturwissenschaft
@@ -232,6 +253,9 @@ Pla:Pol:454c2:
 Pla:Pol:7:
   label: Pla:Pol:7
   sort_key: pla:pol:000007
+Pla:Rep:
+  label: Pla:Rep
+  sort_key: pla:rep
 Pla:Soph:
   label: Sofist
   sort_key: pla:sof
@@ -295,6 +319,9 @@ Vorgehen:
 Vorhanden:
   label: Vorhanden
   sort_key: vorhanden
+Vorhandenheit:
+  label: Vorhandenheit
+  sort_key: vorhandenheit
 Wachsen:
   label: Wachsen
   sort_key: wachsen
@@ -325,9 +352,15 @@ arche:
 arche-kineseos:
   label: ἀρχὴ κινήσεως
   sort_key: arche-kineseos
+aufgehen:
+  label: aufgehen
+  sort_key: aufgehen
 dike:
   label: dike
   sort_key: dike
+doxa:
+  label: doxa
+  sort_key: doxa
 eidos:
   label: εἶδος
   sort_key: eidos
@@ -415,6 +448,9 @@ peri-phuseos:
 phainestai:
   label: phainestai
   sort_key: phainestai
+phaos:
+  label: phaos
+  sort_key: phaos
 phua:
   label: phua
   sort_key: phua
